@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.scss';
 import { Content } from 'carbon-components-react/lib/components/UIShell';
 import Header from './components/Header';
